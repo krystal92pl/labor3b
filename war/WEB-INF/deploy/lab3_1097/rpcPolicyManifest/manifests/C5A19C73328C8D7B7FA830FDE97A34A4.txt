@@ -1,0 +1,2 @@
+serviceClass: com.example.lab3.client.GreetingService
+path: 34533B3E711EDEA9FC9399EF4062B982.gwt.rpc
